@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Yanakiev</h1>
 <h3 align="center">Student at RUG</h3>
 
-- 🔭 I’m currently working on sorting visualizer in C++ with SFML. [SFML_Sorting-Visualizer](https://github.com/IYanakiev34/SFML_SortingVisualizer)
-
-- 🌱 I’m currently learning C++,Functional Programming and Java(only for Uni) :) **SFML,C++(would eventualy try out Unity or UE4)**
-
 - 📫 How to reach me **ivan.y.yanakiev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
