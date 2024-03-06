@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Yanakiev</h1>
-<h3 align="center">Student at RUG</h3>
+<h3 align="center">Masters student at KCL, studying Advanced Software Engineering.</h3>
 
 - 📫 How to reach me **ivan.y.yanakiev@gmail.com**
 
